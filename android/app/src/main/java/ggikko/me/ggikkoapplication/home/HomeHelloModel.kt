@@ -5,5 +5,5 @@ package ggikko.me.ggikkoapplication.home
  */
 class HomeHelloModel {
 
-    fun getHelloString() = "hello kabang"
+    fun getHelloString() = "Hello Kabang!"
 }
